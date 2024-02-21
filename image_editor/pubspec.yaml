@@ -11,9 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   image_editor_platform_interface: ^1.0.0
-  image_editor_common:
-    git: https://github.com/fegea-immo/flutter_image_editor
-    path: image_editor_common
+  image_editor_common: ^1.0.2
   # image_editor_common:
   #   path: ../image_editor_common
   # image_editor_platform_interface:
