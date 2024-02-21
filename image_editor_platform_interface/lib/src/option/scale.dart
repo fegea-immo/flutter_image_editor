@@ -13,7 +13,7 @@ part of 'edit_options.dart';
 ///
 /// When the keepRatio is false, the [keepWidthFirst] will be ignored.
 ///
-/// [doc-keepRatio]: https://github.com/fluttercandies/flutter_image_editor#scale
+/// [doc-keepRatio]: https://github.com/fegea-immo/flutter_image_editor#scale
 ///
 /// {@endtemplate}
 class ScaleOption implements Option {

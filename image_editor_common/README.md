@@ -8,4 +8,4 @@ Support the following platforms:
 - iOS
 - macOS
 
-[image_editor]: https://github.com/fluttercandies/flutter_image_editor
+[image_editor]: https://github.com/fegea-immo/flutter_image_editor

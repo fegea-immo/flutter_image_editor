@@ -1,12 +1,12 @@
 # image_editor
 
-![BUILD](https://github.com/fluttercandies/flutter_image_editor/actions/workflows/runnable.yml/badge.svg?event=push)
+![BUILD](https://github.com/fegea-immo/flutter_image_editor/actions/workflows/runnable.yml/badge.svg?event=push)
 
-The version of readme pub and github may be inconsistent, please refer to [github](https://github.com/fluttercandies/flutter_image_editor).
+The version of readme pub and github may be inconsistent, please refer to [github](https://github.com/fegea-immo/flutter_image_editor).
 
 Use native(objc,kotlin) code to handle image data, it is easy to process pictures, and can be used for saving/uploading/preview images.
 
-- [image\_editor](#image_editor)
+- [image_editor](#image_editor)
   - [Screenshot](#screenshot)
   - [Platform of support](#platform-of-support)
   - [Change Log](#change-log)
@@ -68,7 +68,7 @@ Please read document for null-safety information in [dart][dart-safe] or [flutte
 
 ## ImageEditor Usage
 
-[![pub package](https://img.shields.io/pub/v/image_editor.svg)](https://pub.dev/packages/image_editor) [![GitHub](https://img.shields.io/github/license/fluttercandies/flutter_image_editor.svg)](https://github.com/fluttercandies/flutter_image_editor) [![GitHub stars](https://img.shields.io/github/stars/fluttercandies/flutter_image_editor.svg?style=social&label=Stars)](https://github.com/fluttercandies/flutter_image_editor)
+[![pub package](https://img.shields.io/pub/v/image_editor.svg)](https://pub.dev/packages/image_editor) [![GitHub](https://img.shields.io/github/license/fluttercandies/flutter_image_editor.svg)](https://github.com/fegea-immo/flutter_image_editor) [![GitHub stars](https://img.shields.io/github/stars/fluttercandies/flutter_image_editor.svg?style=social&label=Stars)](https://github.com/fegea-immo/flutter_image_editor)
 
 ```yaml
 dependencies:
@@ -273,7 +273,7 @@ Support:
   - bezier2
   - bezier3
 
-[Example](https://github.com/fluttercandies/flutter_image_editor/blob/main/image_editor/example/lib/draw_example_page.dart)
+[Example](https://github.com/fegea-immo/flutter_image_editor/blob/main/image_editor/example/lib/draw_example_page.dart)
 
 Style of paint: `DrawPaint`, user can set lineWeight,color,style(stroke,fill).
 

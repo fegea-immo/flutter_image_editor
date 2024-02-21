@@ -17,19 +17,19 @@ Fix:
 
 ### What's Changed in 1.1.0
 
-- iOS write to file critical bug by @MagTuxGit in <https://github.com/fluttercandies/flutter_image_editor/pull/61>
-- fix: memory leak rotating cropping, closes #85 by @paricleu in <https://github.com/fluttercandies/flutter_image_editor/pull/88>
-- Fixes scaling on android and added aspect ratio by @ruerob in <https://github.com/fluttercandies/flutter_image_editor/pull/70>
-- 🔥 Clean by @AlexV525 in <https://github.com/fluttercandies/flutter_image_editor/pull/90>
-- Support macOS by @CaiJingLong in <https://github.com/fluttercandies/flutter_image_editor/pull/92>
+- iOS write to file critical bug by @MagTuxGit in <https://github.com/fegea-immo/flutter_image_editor/pull/61>
+- fix: memory leak rotating cropping, closes #85 by @paricleu in <https://github.com/fegea-immo/flutter_image_editor/pull/88>
+- Fixes scaling on android and added aspect ratio by @ruerob in <https://github.com/fegea-immo/flutter_image_editor/pull/70>
+- 🔥 Clean by @AlexV525 in <https://github.com/fegea-immo/flutter_image_editor/pull/90>
+- Support macOS by @CaiJingLong in <https://github.com/fegea-immo/flutter_image_editor/pull/92>
 
 ### New Contributors in 1.1.0
 
-- @MagTuxGit made their first contribution in <https://github.com/fluttercandies/flutter_image_editor/pull/61>
-- @paricleu made their first contribution in <https://github.com/fluttercandies/flutter_image_editor/pull/88>
-- @ruerob made their first contribution in <https://github.com/fluttercandies/flutter_image_editor/pull/70>
+- @MagTuxGit made their first contribution in <https://github.com/fegea-immo/flutter_image_editor/pull/61>
+- @paricleu made their first contribution in <https://github.com/fegea-immo/flutter_image_editor/pull/88>
+- @ruerob made their first contribution in <https://github.com/fegea-immo/flutter_image_editor/pull/70>
 
-**Full Changelog**: <https://github.com/fluttercandies/flutter_image_editor/compare/1.0.2...1.1.0>
+**Full Changelog**: <https://github.com/fegea-immo/flutter_image_editor/compare/1.0.2...1.1.0>
 
 ## 1.0.2
 

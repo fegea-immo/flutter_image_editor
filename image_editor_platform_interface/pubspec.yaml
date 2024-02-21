@@ -1,7 +1,7 @@
 name: image_editor_platform_interface
 description: Edit your image data and output to file/memory on Android and iOS.
 version: 1.0.1
-repository: https://github.com/fluttercandies/flutter_image_editor
+repository: https://github.com/fegea-immo/flutter_image_editor
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
